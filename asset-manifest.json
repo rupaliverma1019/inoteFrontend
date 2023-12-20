@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/inoteFrontend/static/css/main.ecce4135.css",
+    "main.js": "/inoteFrontend/static/js/main.385320cf.js",
+    "static/media/bootstrap-icons.woff?": "/inoteFrontend/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/inoteFrontend/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/inoteFrontend/index.html",
+    "main.ecce4135.css.map": "/inoteFrontend/static/css/main.ecce4135.css.map",
+    "main.385320cf.js.map": "/inoteFrontend/static/js/main.385320cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecce4135.css",
+    "static/js/main.385320cf.js"
+  ]
+}
